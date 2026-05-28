@@ -4,13 +4,14 @@ MVC (Model-View-Controller) adalah design pattern untuk memisahkan aplikasi menj
 # Tugas Pertemuan 13
 
 ## Identitas
-**Nama:** Bima Adi Nugroho
-**NIM:** 60324077
+**Nama :**  Bima Adi Nugroho
+**NIM :**  60324077
 
 ---
 
 ### Tugas 1: Membuat Halaman Dashboard
 Buat halaman dashboard yang menampilkan ringkasan statistik perpustakaan.
+
 ![Dashboard](images-pw11/dashboard.png)
 
 ---
