@@ -1,7 +1,7 @@
 # Controller-and-View-MVC-Pattern
 MVC (Model-View-Controller) adalah design pattern untuk memisahkan aplikasi menjadi 3 komponen utama. Model (Database), Controller (Logic Business), View (HTML, CSS).
 
-## Tugas Pertemuan 10
+## Tugas Pertemuan 11
 
 **Nama:** Bima Adi Nugroho  
 **NIM:** 60324077  
@@ -27,9 +27,13 @@ Buat Blade Component reusable untuk menampilkan card buku.
 ---
 
 ### Show Action Detail
+
 ![Show Act Detail](images-pw11/show_act_detail.png)
 
 ---
+
+## Tugas 3: Search & Filter Buku Advanced
+Tambahkan fitur pencarian dan filter advanced untuk buku.
 
 ### Search & Filter
 ![Search Filter](images-pw11/search_filter.png)
